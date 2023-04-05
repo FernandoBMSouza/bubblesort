@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\bin\Debug\net7.0\bubblesort.exe
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\bin\Debug\net7.0\bubblesort.deps.json
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\bin\Debug\net7.0\bubblesort.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\bin\Debug\net7.0\bubblesort.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\bin\Debug\net7.0\bubblesort.pdb
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\refint\bubblesort.dll
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.pdb
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\bubblesort.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\Algoritmos\bubblesort\obj\Debug\net7.0\ref\bubblesort.dll
